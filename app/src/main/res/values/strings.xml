@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login_to">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">username</string>
+    <string name="btn0_left_menu">左菜单按钮0</string>
+    <string name="btn1_left_menu">左菜单按钮1</string>
+    <string name="btn2_left_menu">左菜单按钮2</string>
+    <string name="btn0_right_menu">右菜单按钮0</string>
+    <string name="btn1_right_menu">右菜单按钮1</string>
+    <string name="btn2_right_menu">右菜单按钮2</string>
+
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">点击登录</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

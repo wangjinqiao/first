@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\androidStudio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PullParser" />
+            <option value="$PROJECT_DIR$/TestCardRecycler" />
+            <option value="$PROJECT_DIR$/TestMVP" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/applicationBike" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/myapplication3" />
+            <option value="$PROJECT_DIR$/myapplicationBaiduma" />
+            <option value="$PROJECT_DIR$/news" />
+            <option value="$PROJECT_DIR$/news2" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

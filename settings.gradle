@@ -1,0 +1,1 @@
+include ':app', ':myapplication2', ':TestMVP', ':news', ':PullParser', ':TestCardRecycler', ':myapplication3', ':myapplicationBaiduma', ':applicationBike', ':news2'

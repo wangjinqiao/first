@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<doc>
+<voice id="1">
+<name>aaa</name>
+<age>12</age>
+</voice>
+<voice id="3">
+<name>aa1</name>
+<age>11</age>
+</voice>
+<voice id="2">
+<name>aa2</name>
+<age>4</age>
+</voice>
+</doc>

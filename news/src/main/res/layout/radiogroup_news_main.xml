@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    >
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rdbtn_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:button="@null"
+            android:checked="true"
+            android:text="军事"
+            android:textColor="@color/type_color"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:id="@+id/rdbtn_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:button="@null"
+            android:text="社会"
+            android:textColor="@color/type_color"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:id="@+id/rdbtn_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:button="@null"
+            android:text="股票"
+            android:textColor="@color/type_color"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:id="@+id/rdbtn_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:button="@null"
+            android:text="基金"
+            android:textColor="@color/type_color"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:id="@+id/rdbtn_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:button="@null"
+            android:text="手机"
+            android:textColor="@color/type_color"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:id="@+id/rdbtn_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:button="@null"
+            android:text="英超"
+            android:textColor="@color/type_color"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:id="@+id/rdbtn_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:button="@null"
+            android:text="NBA"
+            android:textColor="@color/type_color"
+            android:textSize="18dp" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_right_main_more"
+        android:layout_width="40dp"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:background="@mipmap/typemore_normal" />
+</RelativeLayout>

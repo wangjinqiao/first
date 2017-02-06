@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:t="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cdv_item"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    t:cardBackgroundColor="#00ffff"
+    t:cardCornerRadius="10dp"
+    t:cardElevation="7dp"
+   >
+
+    <ImageView
+        android:id="@+id/img_item_rcc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:src="@mipmap/e41" />
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullParser/PullParser.iml" filepath="$PROJECT_DIR$/PullParser/PullParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCardRecycler/TestCardRecycler.iml" filepath="$PROJECT_DIR$/TestCardRecycler/TestCardRecycler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMVP/TestMVP.iml" filepath="$PROJECT_DIR$/TestMVP/TestMVP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applicationBike/applicationBike.iml" filepath="$PROJECT_DIR$/applicationBike/applicationBike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication3/myapplication3.iml" filepath="$PROJECT_DIR$/myapplication3/myapplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplicationBaiduma/myapplicationBaiduma.iml" filepath="$PROJECT_DIR$/myapplicationBaiduma/myapplicationBaiduma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news/news.iml" filepath="$PROJECT_DIR$/news/news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news2/news2.iml" filepath="$PROJECT_DIR$/news2/news2.iml" />
+    </modules>
+  </component>
+</project>
